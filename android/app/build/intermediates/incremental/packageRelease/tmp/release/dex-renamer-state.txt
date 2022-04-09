@@ -1,0 +1,7 @@
+#Thu Jan 20 00:39:38 PKT 2022
+base.0=/Users/sohailferoz/Desktop/React Native/GalaxyWorldWide/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/Users/sohailferoz/Desktop/React Native/GalaxyWorldWide/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex

@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "641823042965",
+    "firebase_url": "https://galaxywoldwide.firebaseio.com",
+    "project_id": "galaxywoldwide",
+    "storage_bucket": "galaxywoldwide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641823042965:android:098202a4acd957ef4d1a9c",
+        "android_client_info": {
+          "package_name": "com.aslshippinglines"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641823042965-fhjvj9chgs5jjcrfu48lrsihipjpagai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoyexb52tzIq4tJYAlzJ9IZbiH37j3hao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641823042965-fhjvj9chgs5jjcrfu48lrsihipjpagai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641823042965-5v5i2jgkufngd4vppg3po00kft5u31d1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.AslShippinglines"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641823042965:android:36dc60de5bb0aa814d1a9c",
+        "android_client_info": {
+          "package_name": "com.galaxyworldwide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641823042965-fhjvj9chgs5jjcrfu48lrsihipjpagai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoyexb52tzIq4tJYAlzJ9IZbiH37j3hao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641823042965-fhjvj9chgs5jjcrfu48lrsihipjpagai.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641823042965-5v5i2jgkufngd4vppg3po00kft5u31d1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.AslShippinglines"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
